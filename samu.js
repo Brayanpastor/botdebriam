@@ -3,7 +3,7 @@
 //   tal y como esta.
 // + Si modificaras, manten los
 //   creditos:
-//   _MankBarBar & Samu & LolHuman_
+//   _brayan pastor_
 //============ Samu330 ============\\
 const { 
   WAConnection,
